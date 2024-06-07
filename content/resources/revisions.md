@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on writing and revising a paper on literature.
 file: /courses/21l-003-introduction-to-fiction-spring-2002/01012915bddff8e6135f7f30327d6037_revisions.pdf
+file_size: 111538
 file_type: application/pdf
 learning_resource_types:
 - Assignments
