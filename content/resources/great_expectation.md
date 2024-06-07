@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to write an essay on a passage selected from Great Expectations
   by Charles Dickens.
 file: /courses/21l-003-introduction-to-fiction-spring-2002/d8993888122828790fdce2cf0f5c55ad_great_expectation.pdf
+file_size: 158241
 file_type: application/pdf
 learning_resource_types:
 - Assignments

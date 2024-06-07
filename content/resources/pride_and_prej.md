@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for writing papers about literature.
 file: /courses/21l-003-introduction-to-fiction-spring-2002/2f9ca126565437c02bc7c0b4619ab6fb_pride_and_prej.pdf
+file_size: 24139
 file_type: application/pdf
 learning_resource_types:
 - Assignments
