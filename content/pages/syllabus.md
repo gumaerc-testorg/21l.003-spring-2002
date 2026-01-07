@@ -20,4 +20,4 @@ Writing Conferences with Tutor
 
 Students are required to meet at least once with the tutor prior to the first paper due date and to meet with the tutor for assistance on the revision for the third paper. You are encouraged to have a conference before each assignment, however. Plan to meet with the tutor either before drafting your first paper or with time to revise after the conference. Conferences will last up to 30 minutes, if you arrive on time. Please notify the tutor if you need to cancel an appointment; email is best.
 
-Please also take note of {{% resource_link "a3aa04ee-88f6-474f-9988-15f4c019658e" "MIT's statement on plagiarism" %}}.
+Please also take note of [MIT's statement on plagiarism](http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/).
